@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2018-10-29
 inline: true
 ---
 
-A simple inline announcement.
+Deconstructing Digital Scholarship Consultations workshop for Harvard Library
