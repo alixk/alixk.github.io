@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Alix</strong> Keener
-description: <a href=""></a>Mountain View, CA
+description: <a href=""></a>San Francisco Bay Area, CA
 
 profile:
   align: right
@@ -16,5 +16,5 @@ news: true
 social: true
 ---
 
-I am a program manager, academic technologist, and librarian focusing on supporting researchers in the digital humanities and social sciences. I consult, teach, and collaborate on projects related to text and data mining, digital history, diversity and representation in digital scholarship, community engagement, and critical digital studies. Currently, I am a Program Manager at the UC Santa Cruz Silicon Valley campus. Before that, I was the Digital Scholarship Librarian at the University of Michigan Library, where I earned my MSI in 2014. 
+I am an academic technologist and librarian focusing on supporting researchers in the digital humanities and social sciences. I consult and collaborate on a variety of digital scholarship projects. Currently, I am the Digital Scholarship Coordinator based jointly in Stanford University's Center for Spatial and Textual Analysis and Stanford Libraries' Center for Interdisciplinary Digital Research. Before that, I was a Program Manager at the UC Santa Cruz Silicon Valley campus, and previously the Digital Scholarship Librarian at the University of Michigan Library, where I earned my MSI. 
 
